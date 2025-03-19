@@ -5,27 +5,13 @@ This project builds a predictive model for car purchasing amounts based on custo
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Model](#model)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
 
 
-## Usage
 
-To use the Car Purchasing Prediction Model, follow these steps:
-
-### Prerequisites
-Ensure you have the following installed on your machine:
-- Python 3.x
-- Jupyter Notebook or Google Colab
-- Required libraries: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
-
-You can install the required libraries using pip:
-
-```bash
-pip install pandas scikit-learn matplotlib seaborn
 ## Data
 
 The dataset used in this project is `car_purchasing.csv`, which contains information about customers and their corresponding car purchase amounts. This dataset is essential for training the predictive model.
