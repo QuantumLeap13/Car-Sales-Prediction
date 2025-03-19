@@ -1,0 +1,21 @@
+
+### Steps to Update Your `README.md`
+
+1. **Go to Your GitHub Repository**: Open your web browser and navigate to your GitHub repository.
+
+2. **Edit the `README.md` File**:
+   - Click on the `README.md` file to open it.
+   - Click on the pencil icon (✏️) to edit the file.
+
+3. **Replace the Content**: Copy the updated content provided above and paste it into the text area.
+
+4. **Commit the Changes**:
+   - Scroll down to the bottom of the page.
+   - In the "Commit changes" section, add a commit message (e.g., "Fix Table of Contents links").
+   - Click on the `Commit changes` button to save the updated `README.md`.
+
+### Final Check
+
+- After committing, navigate back to your repository's main page and check if the links in the table of contents now work correctly. Clicking on any of the links should take you to the corresponding section in the `README.md`.
+
+If you have any further questions or need additional assistance, feel free to ask!
