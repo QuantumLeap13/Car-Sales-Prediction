@@ -24,7 +24,5 @@ You can install the required libraries using pip:
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
 
-## usage
-To run this project, you need to have Python installed along with the following libraries:
-- **pandas**: For data manipulation and analysis.
+
 
